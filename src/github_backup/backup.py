@@ -1,4 +1,3 @@
-import os
 from github_backup.client import Client
 
 
